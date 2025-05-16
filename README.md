@@ -9,9 +9,10 @@ Follow these steps to run the AI-driven comic strip generation project using Goo
     In the popup window, set the Hardware accelerator to T4 GPU (or any available GPU).
     Click "Save".
 5. Open the [GitHub repository](your-github-link-here) and copy the code cells into your Colab notebook in order.
-6. Run all the cells one by one or choose "Runtime" -> "Run all".
-7. When prompted, input your story and select a manga style as instructed.
-8. The AI will process your input and automatically generate a comic strip based on your story.
+6. Create a new Groq API by Signing in to Groq Website and Place it in the Code.
+7. Run all the cells one by one or choose "Runtime" -> "Run all".
+8. When prompted, input your story and select a manga style as instructed.
+9. The AI will process your input and automatically generate a comic strip based on your story.
 
 
 Tips & Notes
